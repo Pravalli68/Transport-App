@@ -11,9 +11,6 @@ export class SearchService {
   constructor(private http:HttpClientModule) { 
 
   }
-  getUserData(){
-    
-    }
   
   }
   
